@@ -1,2 +1,2 @@
-# smm-akti
+# SMM-AKTI
 Repository for SMM Students
