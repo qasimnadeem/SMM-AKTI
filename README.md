@@ -1,2 +1,2 @@
 # SMM [Social Media Marketing]
-Repository for SMM Students
+Repository for SMM Learners
